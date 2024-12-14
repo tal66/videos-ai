@@ -43,4 +43,17 @@ Oasis, Don’t Go Away
 <img src="./videos/gif_Cold and frosty morning.gif"/>
 
 
-<br><br><br><br>
+<br><br>
+
+Standing in line to see the show tonight \
+And there's a light on, heavy glow \
+By the way, I tried to say \
+I'd be there, waiting for
+
+Red Hot Chili Peppers, By The Way
+
+<img src="./videos/gif_Standing in line to see the show tonight.gif"/>
+
+<br><br>
+
+<br><br>
