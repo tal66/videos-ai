@@ -54,6 +54,18 @@ Red Hot Chili Peppers, By The Way
 
 <img src="./videos/gif_Standing in line to see the show tonight.gif"/>
 
+
+<br><br>
+
+I'd walk a million miles, just to see you smile \
+I need you by my side, we get high on life
+
+Martin Garrix
+
+<img src="./videos/gif_Id walk a million miles just to see you smile.gif"/>
+
+
+
 <br><br>
 
 <br><br>
