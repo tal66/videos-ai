@@ -1,0 +1,8 @@
+services:
+  video-app:
+    container_name: app
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./public/videos:/app/public/videos
